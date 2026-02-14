@@ -4,69 +4,69 @@
       {
         "label": "primary",
         "color": {
-          "red": 74,
-          "green": 122,
-          "blue": 155,
+          "red": 51,
+          "green": 65,
+          "blue": 85,
           "alpha": 1
         },
-        "hex": "#4a7a9b",
+        "hex": "#334155",
         "accessibility": {
-          "luminance": 0.17,
-          "luminancePercent": "17%",
+          "luminance": 0.05,
+          "luminancePercent": "5%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 4.6,
-          "wcagRating": "AA"
+          "contrastRatio": 10.35,
+          "wcagRating": "AAA"
         }
       },
       {
         "label": "secondary",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 38,
+          "green": 48,
+          "blue": 63,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#26303f",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
+          "luminance": 0.03,
+          "luminancePercent": "3%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
-          "wcagRating": "AA"
+          "contrastRatio": 13.32,
+          "wcagRating": "AAA"
         }
       },
       {
         "label": "accent",
         "color": {
-          "red": 34,
-          "green": 77,
-          "blue": 131,
+          "red": 70,
+          "green": 174,
+          "blue": 171,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#46aeab",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
+          "luminance": 0.35,
+          "luminancePercent": "35%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 7.9,
           "wcagRating": "AAA"
         }
       },
       {
         "label": "text",
         "color": {
-          "red": 34,
-          "green": 77,
+          "red": 41,
+          "green": 134,
           "blue": 131,
           "alpha": 1
         },
-        "hex": "#224D83",
+        "hex": "#298683",
         "accessibility": {
-          "luminance": 0.07,
-          "luminancePercent": "7%",
-          "recommendedTextColor": "#ffffff",
-          "contrastRatio": 8.55,
-          "wcagRating": "AAA"
+          "luminance": 0.19,
+          "luminancePercent": "19%",
+          "recommendedTextColor": "#000000",
+          "contrastRatio": 4.83,
+          "wcagRating": "AA"
         }
       },
       {
@@ -123,94 +123,94 @@
       {
         "label": "topbar-dark",
         "color": {
-          "red": 61,
-          "green": 100,
-          "blue": 128,
+          "red": 51,
+          "green": 65,
+          "blue": 85,
           "alpha": 1
         },
-        "hex": "#3d6480",
+        "hex": "#334155",
         "accessibility": {
-          "luminance": 0.12,
-          "luminancePercent": "12%",
+          "luminance": 0.05,
+          "luminancePercent": "5%",
           "recommendedTextColor": "#ffffff",
-          "contrastRatio": 5.9,
-          "wcagRating": "AA"
+          "contrastRatio": 10.35,
+          "wcagRating": "AAA"
         }
       }
     ],
     "typography": [
       {
         "label": "font",
-        "font": "'Verdana', helvetica, arial, sans-serif"
+        "font": "'sans-serif', helvetica, arial, sans-serif"
       },
       {
         "label": "font-title",
-        "font": "'Montserrat', sans-serif"
+        "font": "'-apple-system', sans-serif"
       }
     ],
-    "logo_url": "https://www.taortho.com/assets/images/logo.png",
+    "logo_url": "https://mingaorthodontics.com/wp-content/uploads/2024/05/logo-1.png",
     "logo_config": {
       "type": "url",
       "variant": "light",
-      "url": "https://www.taortho.com/assets/images/logo.png"
+      "url": "https://mingaorthodontics.com/wp-content/uploads/2024/05/logo-1.png"
     },
     "logo_colors": {
       "colors": [
         {
-          "hex": "#3f9ff4",
-          "luminosity_percent": 32,
-          "count": 3
-        },
-        {
-          "hex": "#3c9bf0",
-          "luminosity_percent": 31,
-          "count": 3
-        },
-        {
-          "hex": "#3c9bf1",
-          "luminosity_percent": 31,
-          "count": 3
-        },
-        {
-          "hex": "#3e9bf0",
-          "luminosity_percent": 31,
-          "count": 2
-        },
-        {
-          "hex": "#3d9df3",
-          "luminosity_percent": 32,
-          "count": 2
-        },
-        {
-          "hex": "#090707",
+          "hex": "#000000",
           "luminosity_percent": 0,
-          "count": 2
+          "count": 60
         },
         {
-          "hex": "#070507",
-          "luminosity_percent": 0,
-          "count": 2
+          "hex": "#ffffff",
+          "luminosity_percent": 100,
+          "count": 16
         },
         {
-          "hex": "#3da1f8",
-          "luminosity_percent": 33,
-          "count": 2
+          "hex": "#9de0e2",
+          "luminosity_percent": 66,
+          "count": 5
         },
         {
-          "hex": "#3d9ff2",
-          "luminosity_percent": 32,
-          "count": 1
+          "hex": "#38c9cd",
+          "luminosity_percent": 47,
+          "count": 4
         },
         {
-          "hex": "#3e9ef5",
-          "luminosity_percent": 32,
-          "count": 1
+          "hex": "#38c7cb",
+          "luminosity_percent": 46,
+          "count": 4
+        },
+        {
+          "hex": "#3abfc3",
+          "luminosity_percent": 42,
+          "count": 4
+        },
+        {
+          "hex": "#fdfefe",
+          "luminosity_percent": 99,
+          "count": 3
+        },
+        {
+          "hex": "#62cdd0",
+          "luminosity_percent": 51,
+          "count": 3
+        },
+        {
+          "hex": "#edf9fa",
+          "luminosity_percent": 93,
+          "count": 3
+        },
+        {
+          "hex": "#52c6ca",
+          "luminosity_percent": 46,
+          "count": 3
         }
       ],
-      "dominant_color": "#3f9ff4",
-      "avg_luminosity": 25.6,
+      "dominant_color": "#000000",
+      "avg_luminosity": 31.8,
       "is_light": false
     },
-    "favicon_url": "https://www.taortho.com/assets/images/icons/favicon.png"
+    "favicon_url": "https://mingaorthodontics.com/wp-content/uploads/2025/01/cropped-minga-orthodontics-favico-32x32.png"
   }
 }
